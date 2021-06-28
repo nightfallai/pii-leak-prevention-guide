@@ -256,7 +256,7 @@ Below are graphs highlighting the most important data breach trends in the past 
 
 ![](https://nightfall.ai/wp-content/uploads/2021/05/image-1-1024x632.png)
 
-Looking at the largest breaches on record since 2004, we found that while most years after 2003 have mega breaches, they became increasingly common after 2015. These breaches, however, can vary widly in the number of individuals they impact.
+Looking at the largest breaches on record since 2004, we found that while most years after 2003 have mega breaches, they became increasingly common after 2015. These breaches, however, can vary wildly in the number of individuals they impact.
 
 ![](https://nightfall.ai/wp-content/uploads/2021/05/image-1024x633.png)
 
